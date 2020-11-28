@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Breathalyzer calculate</string>
+    <string name="classify">Calculate and classify blood alcohol</string>
+    <string name="alcoholic">Alcoholic person</string>
+    <string name="nonalcoholic">Non-alcoholic person</string>
+</resources>
